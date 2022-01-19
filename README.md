@@ -4,7 +4,8 @@
 
 ## What is this
 
-Simple python script extracting `MIN`, `MAX` and `AVG` from a .SRT file. Designed for the DJI FPV **headset** data
+Simple python script extracting `MIN`, `MAX` and `AVG` from a .SRT file. Designed for the DJI FPV **headset** data.
+
 Probably works with other drones data, GeoLocation def not supported yet (everything rounds to 2 digits).
 
 > You should be able to find the .SRT file of your fly records together with the videos, on the FPV's headset.
